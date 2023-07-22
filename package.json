@@ -1,0 +1,19 @@
+{
+  "name": "geocode-csv",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "run": "node ./geocode-csv.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/geojson": "^7946.0.10"
+  },
+  "dependencies": {
+    "csv": "^6.3.1"
+  }
+}
